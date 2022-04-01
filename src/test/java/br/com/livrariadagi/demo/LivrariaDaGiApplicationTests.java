@@ -1,0 +1,13 @@
+package br.com.livrariadagi.demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LivrariaDaGiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
